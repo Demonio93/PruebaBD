@@ -16,10 +16,5 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       Hardeep Shoker
   </author>
-  <gap:plugin name="cordova-plugin-whitelist" source="npm" />
-  <access origin"*" />
-  <allow-navigation href="*" />
-  <allow-intent href="*" />
-  <allow-intent href="http://*/*" />
-  <allow-intent href="https://*/*" />
+  <access origin="*"/>
 </widget>
